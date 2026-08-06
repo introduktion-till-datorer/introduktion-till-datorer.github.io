@@ -23,10 +23,12 @@ Zoom-konto][activate-zoom].
 
 Handledning av de uppgifter som hör till Introduktion till datorer sker under
 schemalagda pass i datorsalar, förutom för KandLedarskap (distans) där
-handlending sker i Zoom. Handledarna är själva studenter på högre årskurser och
-har nyligen själva varit nya vid universtetet. Handledarna finns där
+handledning sker i [Zoom][Zoom]. Handledarna är själva studenter på högre årskurser och
+har nyligen själva varit nya vid universitetet. Handledarna finns där
 din förståelses skull, så våga fråga och diskutera sådant du undrar över med
 handledarna. och dina kurskamrater.
+
+[Zoom]: ../preparation/#zoom
 
 <!--
 - Om du behöver hjälp är det snabbaste och enklaste sättet att närvara i Zoom på
