@@ -10,7 +10,7 @@ bör fixa så fort som möjligt.
 ## Campus Ångströmlaboratoriet
 
 [Campus Ångströmlaboratoriet][ångström] ligger i de vackra omgivningarna vid
-Polacksbacken ungefär 3 km söder om Uppsala centrum. Addressen är
+Polacksbacken ungefär 3 km söder om Uppsala centrum. Adressen är
 [Lägerhyddsvägen 1][lägerhyddsvägen-1] och hit tar du enkelt [buss][ul-polacksbacken] eller
 [cykel][ångström-cykel]. På kartan nedan ser du hur de olika delarna av
 Ångströmlaboratoriet numreras. Varje sådan del kallas Hus. Huvudentré och
@@ -29,7 +29,7 @@ Polacksbacken ungefär 3 km söder om Uppsala centrum. Addressen är
 ## Campus Gotland
 
 [Campus Gotland][campus-gotland] ligger mellan stranden och ringmuren i Visbys
-inre hamn. Addressen är [Cramérgatan 3][campus-gotland-google-maps]. På kartan nedan ser du de olika byggnaderna som utgör Campus Gotland. [Receptionen][campus-gotland-reception]
+inre hamn. Adressen är [Cramérgatan 3][campus-gotland-google-maps]. På kartan nedan ser du de olika byggnaderna som utgör Campus Gotland. [Receptionen][campus-gotland-reception]
 hittar du vid huvudentrén.
 
 ![](/images/2024/preparation/map-of-campus-gotland.jpg)
@@ -50,7 +50,7 @@ studentkonto får du bland annat:
 - en egen e-postadress på formen `förnamn.efternamn.1234@student.uu.se`
 - en användaridentitet på formen `abcd1234` som används för att logga in med i de
   flesta system
-- tillgång till universitetets fasta och trådlösa nät
+- tillgång till universitetets trådlösa nät
 - åtkomst till universitetets datorsystem 
 - tillgång till universitetets utskriftssystem
 - åtkomst till kursmaterial i [Studium][studium] där du även kan lämna in uppgifter och kontrollera dina studieresultat.
@@ -99,7 +99,7 @@ För att komma in i datasalar, seminarierum och föreläsningsalar behöver du e
 
 ### Campuskort på Campus Ångström
 
-Om du studerera på Campus Ångsgtröm skaffar du enklast ett Campuskort gemnom att besöka Ångströmlaboratoriets [Kort- och nyckelservice][kort-och-nyckelservice]. Du kan antingen ha med dig ett eget fotografi på dig själv eller så kan personalen ta en bild av dig på plats.
+Om du studerar på Campus Ångsgtröm skaffar du enklast ett Campuskort genom att besöka Ångströmlaboratoriets [Kort- och nyckelservice][kort-och-nyckelservice]. Du kan antingen ha med dig ett eget fotografi på dig själv eller så kan personalen ta en bild av dig på plats.
 
 Det går även att [beställa][request-campus-card] ett Campuskort online. När ditt Campuskort är klart kan du hämta upp det i [Receptionen][campus-gotland-reception] på Campus Ångström.
 
