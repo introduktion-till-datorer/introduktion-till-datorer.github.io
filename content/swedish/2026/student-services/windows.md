@@ -45,6 +45,8 @@ den dator du är inloggad på. Om du lagrar en fil på dator A kommer du alltså
 inte att komma åt den från dator B. Det är heller inte garanterat att en fil du
 sparar lokalt på dator A kommer finnas kvar nästa gång du loggar in på dator A. 
 
+För att spara filer som du kan komma åt från alla datorer på campus eller från din egen dator använder du [OneDrive](onedrive).
+
 ## Aktivitetsfältet (taskbar)
 
 Längst ner på skrivbordet hittar du **Aktivitetsfältet (taskbar)**. 
