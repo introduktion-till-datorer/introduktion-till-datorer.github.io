@@ -33,7 +33,7 @@ Observera att ibland kan tider och klassrum ändras och inte uppdateras direkt g
 uppdateras oftast någon gång om dagen.
 
 Det är inte helt uppenbart hur man prenumererar via [Google Kalender](https://calendar.google.com); du når
-alternativet genom att klicka på plustecknet för "Andra kalendrar", följt av "Från webbadress". På sidan som dyker upp kopierar du länken för schemat i iCal-format från TimeEdit (under fliken prenumerera och kopierar länkadressen, se slutet av animationen ovan).
+alternativet genom att klicka på plustecknet för **Andra kalendrar**, följt av **Från webbadress**. På sidan som dyker upp kopierar du länken för schemat i iCal-format från TimeEdit (under fliken prenumerera och kopierar länkadressen, se slutet av animationen ovan).
 
 ![](/images/2024/studenttjanster/googlecal.gif)
 
@@ -57,10 +57,9 @@ vid Uppsala universitet.
 
 ![](/images/2025/studenttjanster/schedule/uu-student-login.png?width=666px)
 
-Efter att du loggat in (4) skrollar du ner tills du ser en ruta med ditt namn
-(till exempel Anna Andersson) högst upp (5). 
+Efter att du loggat in (4) skrollar du ner till rutan **Mina verktyg** (5). 
 
-![](/images/2025/studenttjanster/schedule/your-name-box.png?width=444px)
+![](/images/2026/studenttjanster/schedule/my-tools.png?width=444px)
 
 Klicka på [Mitt schema][my-schedule] (6). Nu kommer du till en ny sida där du kan söka ut ditt schema.
 
@@ -71,7 +70,7 @@ till schemasystemet [TimeEdit][TimeEdit].
 
 [TimeEdit]: https://cloud.timeedit.net/uu/web
 
-![](/images/2025/studenttjanster/schedule/time-edit-search-schedule.png?width=444px)
+![](/images/2026/studenttjanster/schedule/sv-time-edit-search-schedule.png?width=444px)
 
 Klicka på [Schema][TimeEditSearch] (8) för att söka ut ett schema. Du får nu upp
 en sökruta där du kan söka upp det schema du är intresserad av.
