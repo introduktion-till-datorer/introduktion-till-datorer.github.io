@@ -9,7 +9,7 @@ Efter att du blivit godkänd på denna uppgift kommer du att känna till hur du:
 
 - matar in siffervärden och manipulerar dem
 - gör en graf (sambandsdiagram)
-- implementerar trendlinjer
+- lägger till trendlinjer
 - gör en regressionsanalys
 
 ## Material som krävs
@@ -42,7 +42,7 @@ x	Fib	2^x
 10	55	1024
 ```
 
-Därefter gör du ett *sambandsdiagram* (*scatter plot*) med värdena för `x` på den liggande axeln och
+Därefter gör du ett **sambandsdiagram** (scatter plot) med värdena för `x` på den liggande axeln och
 resultaten av funktionerna på den stående.
 
 Grafen ska innehålla följande:
@@ -55,7 +55,7 @@ Grafen ska innehålla följande:
 + Regressionsanalys (\\(R^2\\)) för vardera trendlinje, placerad så att den är
     läslig
 
-Du kan hänvisa till figuren för hur grafen ska se ut.
+I figuren nedan ser du hur den resulterande grafen bör se ut. 
 
 {{< figure src="/images/2024/excel/uppgift.png" title="Resulterande graf." >}}
 
@@ -67,4 +67,3 @@ ersätter i `abcd1234` med användarnamnet för ditt studentkonto. Om du använd
 ett annat program än Excel måste det vara sparat i sådant format att det går att
 öppna med Excel. Ladda därefter upp filen på anvisad plats Studium (UU) eller
 Canvas (ES/SLU).
-
