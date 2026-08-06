@@ -69,7 +69,7 @@ På campus Ångströmlaboratoriet finns följande datorsalar med Windows.
 
 ### Logga in på dator i datorsal på Campus Ångström
 
-I alla datorsalar för studenter på campus [Ångströmlaboratiet][ångström] finns det datorer
+I alla datorsalar för studenter på campus [Ångströmlaboratoriet][ångström] finns det datorer
 med Windows. 
 
 [ångström]: https://angstrom.uu.se/
@@ -96,6 +96,11 @@ För att logga in i Windows anger du användarnamnet för ditt
 
 ![](/images/2024/linux/windows-10-login.jpg?width=444px)
 
+Läs mer om datorsalar på Campus Ångströmlaboratoriet [här][ångström-datorsalar]. 
+
+[ångström-datorsalar]: https://www.uu.se/student/campus/angstromlaboratoriet/vara-lokaler#h-Datorsalar
+
+
 ## Campus Gotland
 
 På campus Gotland finns följande datorsal. 
@@ -104,12 +109,9 @@ På campus Gotland finns följande datorsal.
 |-------------------------|---------------|
 | [Sal B36][b36]          | 24            |
 
-## Mer om datasalarna
-
-Läs mer om datorsalarna på Campus Ångströmlaboratoriet och Campus Gotland
-[här][datorsalar].
-
-
-[datorsalar]: https://www.uu.se/student/it-for-studenter/datorsalar
 
 [b36]: https://use.mazemap.com/#v=1&campusid=100&zlevel=3&center=18.288615,57.639342&zoom=18&sharepoitype=poi&sharepoi=293398
+
+Läs mer om datasalen på Campus Gotland [här][gotland-datorsalar].
+
+[gotland-datorsalar]: https://www.uu.se/campus/gotland/om-oss/lokaler-pa-campus-gotland/b-huset/datorsalen-b36
