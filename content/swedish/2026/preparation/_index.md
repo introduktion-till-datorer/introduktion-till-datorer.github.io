@@ -103,7 +103,7 @@ Om du studerar på Campus Ångsgtröm skaffar du enklast ett Campuskort genom at
 
 Det går även att [beställa][request-campus-card] ett Campuskort online. När ditt Campuskort är klart kan du hämta upp det i [Receptionen][campus-gotland-reception] på Campus Ångström.
 
-[kort-och-nyckelservice]: https://www.uu.se/medarbetare/campus/angstromlaboratoriet/stod-och-service/kort--och-nyckelservice
+[kort-och-nyckelservice]: https://www.uu.se/student/campus/angstromlaboratoriet/stod-och-service/kort--och-nyckelservice
 
 Vid tekniska problem vid inpassering med hjälp av ditt campuskort besöker du enklast
 Ångströmlaboratoriets [Kort- och nyckelservice][kort-och-nyckelservice].
@@ -122,7 +122,7 @@ giltig ID-handling.
 
 
 [campuskort]: https://www.uu.se/student/regler-och-rattigheter/campuskort
-[request-campus-card]: https://www.uu.se/student/regler-och-rattigheter/campuskort#h-Saharfardudittcampuskort
+[request-campus-card]: https://www.uu.se/student/regler-och-rattigheter/campuskort#h-Bestallcampuskortet
 
 ### Mer om Campuskortet
 
@@ -132,18 +132,18 @@ receptionen.
  
 ## Zoom 
     
-Vid Uppsala universitet är ett viktigt verktyg för undervisning, samarbete och examination på distans
-[Zoom][zoom]. På vissa kurser används Zoom även för vissa former av löpande
-examination, även när det inte är pandemi.
+Vid Uppsala universitet är [Zoom][zoom] ett viktigt verktyg för undervisning,
+samarbete och examination på distans. Även om inte hela kursen är på distans kan
+Zoom användas för att genomföra vissa moment utan att du fysiskt behöver vara på
+campus. 
 
 ![](/images/2024/preparation/zoom-screenshot.png)
 
 
-Med hjälp av Zoom kan du följa med när lärare streamar
-föreläsningar, ställa frågor muntligt eller som text (chatt) till lärare under
-föreläsningar samt dela din datorskärm med lärare
-och andra studenter. Med hjälp av Zoom kan även studenter arbeta på distans i
-mindre grupper. 
+Med hjälp av Zoom kan du följa med när lärare streamar föreläsningar, ställa
+frågor muntligt eller som text (chatt) till lärare under föreläsningar samt dela
+din datorskärm med lärare och andra studenter. Med hjälp av Zoom kan även
+studenter arbeta tillsammans på distans i mindre grupper. 
 
 
 ### Aktivera ditt Zoom-konto
