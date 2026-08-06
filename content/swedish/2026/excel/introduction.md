@@ -119,7 +119,7 @@ tryckt på enter visas resultatet `8` i cellen.
 
 {{< figure 
     src="/images/2026/excel/3-plus-five.gif" 
-    title="Beräkning av 3 + 5." 
+    title="Beräkning av 3 + 5 med hjälp av en formel." 
 >}}
 
 
@@ -141,27 +141,40 @@ anger beräknar denna funktion summan av ett antal värden.
 
 Innan du fortsätter, se till att du har några värden i omfånget `A1:B11`.
 
+{{< figure 
+    src="/images/2026/excel/1-to-11.png" 
+    width="400"
+    title="Exempel på värden." 
+>}}
+
 För att Excel ska förstå att du vill få resultatet av en funktion i en ruta
 måste du börja formeln med tecknet `=` (likhetstecken), följt av namnet på
-funktionen samt eventuella argument vilka anges inom parenteser.
+funktionen samt eventuella argument vilka anges inom parenteser separerade med
+`,` (kommatecken).
 
-I detta exempel väljer vi att placera summan i rutan `A12`. Klicka på den och
-skriv följande, efter vilket du trycker `<Enter>`:
+1. Klicka på cellen `A12`.
+2. Skriv in formel:
+    - Om du använder Excel på engelska skriver du in `=SUM(A1:B11)`.
+    - Om du använder Excel på svenska skriver du in `=SUMMA(A1:B11)`.
+3. Tryck på **Enter**.
 
-``` text =SUM(A1:B11) ```
-
-I detta exempel är alltså funktionens namn `SUM`, medan argumentet är `A1:B11`
 
 {{< figure 
     src="/images/2024/excel/sum.png"
-    title="Beräkna summa." 
+    title="Beräkna summa av alla värden i omfånget A1:B11." 
 >}}
 
-Resultatet, vilket kommer synas i cellen när du är klar, är summan av talen i
-omfånget `A1:B11`.
+I detta exempel är alltså funktionens namn `SUM` (engelska), eller `SUMMA`
+(svenska), medan argumentet är `A1:B11`. Efter att du tryckt på **Enter** visas
+summan av alla tal i omfånget `A1:B11` i cellen `A12`. I detta exempel är summan
+`77`.
 
 Testa att ändra några värden i omfånget `A1:B11` och notera hur summan i rutan
 `A12` automatiskt uppdateras.
+
+{{< figure 
+    src="/images/2026/excel/a1b11-sum-example.gif"
+>}}
 
 
 ### Grafisk inmatning
