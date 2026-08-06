@@ -16,7 +16,7 @@ title = "Introduction to IT systems 2025"
 
 ![](images/uu-full-logo-dark.png?classes=uu-full-logo&lightbox=false)
 
-Introduction to IT systems is part of the following courses. 
+Autumn {{< param year >}}, Introduction to IT systems is part of the following courses. 
 
 
 [uu]:       https://www.uu.se/
