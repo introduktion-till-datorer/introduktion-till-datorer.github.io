@@ -26,17 +26,23 @@ möts du av följande navigeringsrad.
 
 ## Kontrollera din kontaktinformation 
 
-Det är **mycket viktigt** att du besöker **Mina uppgifter** och **kontrollerar** att den **kontaktinformation** som finns där **är korrekt**. Det är ditt ansvar att du uppger korrekt kontaktinformation här. 
+Det är **mycket viktigt** att du besöker **Mina uppgifter** och **kontrollerar**
+att den **kontaktinformation** som finns där **är korrekt**. Det är ditt ansvar
+att du uppger korrekt kontaktinformation här. 
 
 ## Startsidan
 
-På startsidan hittar du kurserna du läser denna termin. Här **registrerar** du dig på kurserna du har ansökt genom antagning.se. 
-Det är väldigt viktigt att du registrerar dig på kurserna efter att du har blivit antagen, annars får du inte tillgång till kursmaterialet. 
-Från startsidan kan du också klicka på kursernas namn för att se mer information om kursen, som bl.a. takt och ingående delar.
+På startsidan hittar du kurserna du läser denna termin. Här **registrerar** du
+dig på kurserna du har ansökt genom antagning.se. Det är väldigt viktigt att du
+registrerar dig på kurserna efter att du har blivit antagen, annars får du inte
+tillgång till kursmaterialet. Från startsidan kan du också klicka på kursernas
+namn för att se mer information om kursen, som bl.a. takt och ingående delar.
 
 ## Min utbildning
 
-Under **Min utbildning** kan du hitta alla kurser du läser just nu, kurser du kommer läsa senare i år och kurser du har läst tidigare. Du kan lätt navigera genom att trycka på navigationsknapparna i toppen.
+Under **Min utbildning** kan du hitta alla kurser du läser just nu, kurser du
+kommer läsa senare i år och kurser du har läst tidigare. Du kan lätt navigera
+genom att trycka på navigationsknapparna i toppen.
 
 ![](/images/2024/studenttjanster/ladok/navigationssida_ladok_min_utbildning_20210811.png)
 
