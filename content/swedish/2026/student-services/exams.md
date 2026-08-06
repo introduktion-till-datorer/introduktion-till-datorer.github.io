@@ -14,21 +14,40 @@ klicka sig in på en kurs, sedan **Till kursen** högst upp och till sist **Resu
 för att anmäla sig. Här syns även övriga moment på kursen samt dina
 inrapporterade resultat för dessa.
 
-Notera att **anmälan** måste ske **senast 12 dagar innan tentamen**, annars riskerar
-du att förlora din plats. Eftersom du även kan ångra din anmälan (senast 12
-dagar innan) är det generellt sett en god idé att anmäla sig så tidigt som
+Sista anmälningsdag för anmälan varierar och det framgår i Ladok för varje tenta
+vilket datum som gäller. Om du inte har anmält dig får du inte tentera.
+
+- Vanligt är att  **anmälan** måste ske **senast 12 dagar innan tentamen**.
+
+Eftersom du även kan ångra din anmälan (vanligen senast 12
+dagar innan tentan) är det generellt sett en god idé att anmäla sig så tidigt som
 möjligt.
 
 Några dagar före tentamen kommer du få ett e-postmeddelande med kvitto på
 tentamensanmälan, förutsatt en sådan har gjorts. Det innehåller också tid och
 plats för tentamen, samt en anonymitetskod som du använder istället för ditt
-namn/personnummer på skrivningen.
+namn/personnummer för att identifiera dig under tentan. 
+
+## E-tentamen (Inspera)
+
+Vid Uppsala universitet blir det allt vanligare med E-tentamen. 
+
+- Under en E-tentamen skriver din tenta på en dator i stället för på papper. 
+- Universitetets e-tentasalar är utrustade med datorer och du behöver inte ta
+  med egen dator.
+- Du använder ditt studentkonto och lösenord A både för att logga in på datorn
+  och för att logga in till tentan. 
+
+Uppsala universitet använder systemet [Inspera Assessment][Inspera] för
+e-tentamen. Läs mer om e-tentamen [här][e-tentamen]. 
+
+[Inspera]: https://exam.uu.se/
+
+[e-tentamen]: https://www.uu.se/student/regler-och-rattigheter/examination/tentamen/e-tentamen
 
 ## Inskannade tentor
 
-
-Sedan några år tillbaka skannas alla tentor som skrivits inom den
-teknisk-naturvetenskapliga fakulteten (TekNat) vid Uppsala universitet. Detta
+Om du skriver din tenta på papper kommer tentan att skannas in. Detta
 innebär att du får tillbaka din rättade tenta digitalt (det finns fortfarande
 möjlighet att hämta ut tentan på papper).
 
@@ -40,5 +59,3 @@ på servern i två år.
 
 Mer om tentamen, inkl. adresser till tentamenslokaler finns
 [här](https://www.uu.se/student/rattigheter/tentamen/).
-
-
