@@ -44,11 +44,9 @@ vid Uppsala universitet.
 
 ## Inkorgen 
 
-Efter att du loggat in (3) skrollar du ner tills du ser en ruta med ditt namn
-(till exempel Anna Andersson) högst upp (4). 
+Efter att du loggat in (3) skrollar du ner **Mina verktyg** (4). 
 
-![](/images/2024/studenttjanster/email/your-name-box.png?width=444px)
-
+![](/images/2026/studenttjanster/email/my-tools.png?width=444px)
 
 Klicka på [E-post][email] (5) för att komma till din inkorg.
 
@@ -75,7 +73,7 @@ Efter att du loggat in kommer du till din inkorg.
 
 Universitets anställda kommer använda denna e-postadress för att skicka information till
 dig. Dessutom kan du använda denna address för att verifiera att du är student.
-Du kan hitta mer information [här](http://www.uu.se/student/it-for-studenter/e-post/").
+Du kan hitta mer information [här](http://www.uu.se/student/it-for-studenter/e-post/).
 
 ## Vidarebefordran
 
@@ -102,7 +100,7 @@ Ett exempel på en ämnesrubrik för ett meddelande som gäller kursen Introdukt
 till informationsteknologi med kurskod 1DT051 skulle kunna se ut så här. 
 
 ``` text
-1DT051 - Komplettera uppgift från hösten 2025
+1DT051 - Komplettera uppgift från hösten 2026
 ```
 
 ### Skriv vem du är och vilken kurs det gäller
@@ -112,7 +110,7 @@ måste du skriva vilken kurs det gäller samt vilket år och termin du gick kurs
 En fortsättning på vårt exempel skulle kunna se ut så här. 
 
 ``` text
-Jag heter Anna Andersson och läste kursen 1DT051 hösten 2025. 
+Jag heter Anna Andersson och läste kursen 1DT051 hösten 2026. 
 ```
 
 ### Var kortfattad och tydlig
