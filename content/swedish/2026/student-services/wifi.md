@@ -11,7 +11,7 @@ skall du i första hand ansluta dig till Eduoroam. Vid behov kan dock studenter
 
 [Eduroam][eduroam-wp] är en internationell tjänst som tillhandahåller trådlöst
 nätverk (Wi-Fi) till studenter. Eduoroam [finns ofta](https://www.eduroam.org/where/)
-på andra universitet och bl.a. på vissa flygplatser.
+på andra universitet och även på vissa flygplatser.
 
 [eduroam-wp]: https://sv.wikipedia.org/wiki/Eduroam
 
@@ -22,7 +22,8 @@ För att ansluta till Eduroam behöver du ha [aktiverat ditt
 
 ### Skapa lösenord B
 
-För att få tillgång till Eduroam måste du först skapa ett lösenord B. Notera att detta lösenord endast används till Eduroam.
+För att få tillgång till Eduroam måste du först skapa ett lösenord B. Notera att
+detta lösenord endast används till Eduroam.
 
 1. Gå till sidan för [kontohantering][konto].
 2. Välj Gemensam webbinloggning. 
@@ -41,7 +42,8 @@ Gör så här för att ansluta till Eduroam.
 4. Klicka på **Connect**.
 
 Efter att du anslutit till Eduroam första gången kommer din enhet (dator eller
-mobiltelefon)ansluta till nätverket helt automatiskt i framtiden då det finns tillgängligt.
+mobiltelefon)ansluta till nätverket helt automatiskt i framtiden då det finns
+tillgängligt.
 
 <!--
 ### Installera Eduroam
@@ -89,9 +91,7 @@ access till internet. Vid behov kan anställda och studenter logga in på
 nätverket UU-Guest med sitt användarnamn och **Lösenord A**.
 Läs mer om nätverket UU-Guest [här][uu-guest]. 
 
-
-[uu-guest]:
-    https://www.uu.se/medarbetare/stod-och-verktyg/it/it-tjanster/natverk-och-vpn#h-UUGuesttradlostWiFinatverk
+[uu-guest]: https://www.uu.se/medarbetare/stod-och-verktyg/it/it-tjanster/natverk-och-vpn#h-UUGuesttradlostnatverkforbesokare
 
 ## Läs mer
 
