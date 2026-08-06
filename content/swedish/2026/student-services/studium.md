@@ -22,7 +22,7 @@ studentkonto](../../preparation#studentkonto).
 {{% notice style="warning" title="Canvas för ES" %}}
 
 Introduktionskursen för **ES** ges av [SLU][slu] och inte av [Uppsala universitet][uu].
-SLU använder sig av dock av Canvas vilket är samma system som Studium är byggt
+SLU använder sig av Canvas vilket är samma system som Studium är byggt
 på. Allt du lär dig här om Studium bör du kunna använda på samma sätt i Canvas. 
 
 Om du läser **ES** loggar du in i Canvas [här][slu-canvas].
