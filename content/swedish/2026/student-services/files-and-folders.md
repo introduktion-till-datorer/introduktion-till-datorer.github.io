@@ -46,18 +46,18 @@ roten och efter varje mapp (gren) lägger man till en avskiljande symbol.
 - Windows använder `\` som avskiljare. 
 - Linux använder `/` som avskiljare. 
 
-I Windows har mappen **djur** (7) har följande sökväg. 
+I Windows har mappen **djur** (7) följande sökväg. 
 
 ``` text
 C:\djur
 ```
-I Linux har mappen **djur** (7) har följande sökväg. 
+I Linux har mappen **djur** (7) följande sökväg. 
 
 ``` text
 /djur
 ```
 
-I Windows har filen **nisse** (5) har följande sökväg.
+I Windows har filen **nisse** (5) följande sökväg.
 
 ``` text
 C:\kompisar\nisse
@@ -70,13 +70,13 @@ I Linux har filen **nisse** (5) följande sökväg.
 ```
 
 Filen **bosse** (2) har samma namn som filen **bosse** (6), men de har unika
-sökvägar. I Windows hare filen **bosse** (2) har följande sökväg. 
+sökvägar. I Windows hare filen **bosse** (2) följande sökväg. 
 
 ``` text
 C:\bosse
 ```
 
-I Windows hare filen **bosse** (6) har följande sökväg. 
+I Windows har filen **bosse** (6) följande sökväg. 
 
 ``` text
 C:\kompisar\bosse
