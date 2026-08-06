@@ -19,7 +19,7 @@ title = "Introduktion till datorer 2025"
 ![](images/uu-full-logo-dark.png?classes=uu-full-logo&lightbox=false)
 
 
-Hösten {{< year >}} ingår momentet Introduktion till datorer, även kallat Dataproppen,
+Hösten {{< param year >}} ingår momentet Introduktion till datorer, även kallat Dataproppen,
 på följande utbildningar och introduktionskurser inom [vetenskapsområdet för teknik
 och naturvetenskap][teknat] vid [Uppsala universitet][uu].
 
