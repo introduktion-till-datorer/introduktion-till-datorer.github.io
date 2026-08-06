@@ -27,12 +27,13 @@ och statistik.
        + Gratis
        + Kräver konto hos *Microsoft Live* (även detta är kostnadsfritt)
        + Fungerar via de flesta webbläsare
+       + Som student vid Uppsala Universitet har du ett [Microsoft 365
+         Education-konto][365-student] med tillgång till ett Microsoft
+         Office-paket där bland annat Excel ingår 
        + **Har ej stöd för trendlinjer**
    - Nedladdad version
        + Fungerar endast för Microsoft Windows och MacOS (OS X)
-       + Som student vid Uppsala Universitet får du ett [Microsoft 365
-         Education-konto][365-student] med tillgång till ett Microsoft
-         Office-paket, kalender och e-post.
+      
 + [Apple Numbers](https://www.apple.com/in/numbers/)
    + Apples egna kalkylprogram som ingår i [iWork-sviten][iWork] för Mac,
      iPhone, iPad och via webben på [iCloud][icloud-numbers].

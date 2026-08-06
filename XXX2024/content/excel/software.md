@@ -27,12 +27,13 @@ Kalkylark används för att sammanställa och manipulera data i form av beräkni
        + Gratis
        + Kräver konto hos *Microsoft Live* (även detta är kostnadsfritt)
        + Fungerar via de flesta webbläsare
+       + Alla studenter vid Uppsala
+       universitet har ett [Microsoft 365 Education-konto][365-student] med tillgång till 
+         Microsoft Office-paketet där bland annat Excel ingår.
        + **Har ej stöd för trendlinjer**
    - Nedladdad version
        + Fungerar endast för Microsoft Windows och MacOS (OS X)
-       + Sedan den 25 januari 2017 får alla studenter vid Uppsala
-       universitet ett [Microsoft 365 Education-konto][365-student] med tillgång till ett
-         Microsoft Office-paket, kalender och e-post.
+       
 
 [365-student]: student-services/microsoft/
 
