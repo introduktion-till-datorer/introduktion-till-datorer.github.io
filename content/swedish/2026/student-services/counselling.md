@@ -19,13 +19,17 @@ stödinsatser hittar du på länkarna i tabellen nedan.
 |:----------------------------------------:|:------------------------------------------------:|
 | [Studievägledning][ang-councelling]      | [Studievägledning][got-councelling]              |
 
-Är du i behov av särskilt stöd till följd av en långvarig funktionsnedsättning kan du ansöka om riktat pedagogiskt stöd från universitetet.
+Är du i behov av särskilt stöd till följd av en långvarig funktionsnedsättning
+kan du ansöka om riktat pedagogiskt stöd från universitetet.
 
-- [Riktat pedagogiskt stöd](https://www.uu.se/student/fakultet/teknisk-naturvetenskapliga/riktat-pedagogiskt-stod)
+- [Riktat pedagogiskt
+  stöd](https://www.uu.se/student/fakultet/teknisk-naturvetenskapliga/riktat-pedagogiskt-stod)
 
-- [Studera med funktionsnedsättning](https://www.uu.se/student/stod-och-service/funktionsnedsattning)
+- [Studera med
+  funktionsnedsättning](https://www.uu.se/student/stod-och-service/funktionsnedsattning)
 
 [ångström]: https://angstrom.uu.se 
+
 [ångström-funk]: https://www2.uu.se/student/fakultet/teknisk-naturvetenskapliga/riktat-pedagogiskt-stod
 
 [gotland-funk]: https://www.uu.se/student/stod-och-service/funktionsnedsattning
@@ -33,9 +37,10 @@ stödinsatser hittar du på länkarna i tabellen nedan.
 [gotland]: https://www.campusgotland.uu.se/
 
 [ang-councelling]:
-    https://www.uu.se/student/fakultet/teknisk-naturvetenskapliga/vagledning
+https://www.uu.se/student/fakultet/teknisk-naturvetenskapliga/vagledning
 
-[pol-disabilites]: https://www.teknat.uu.se/utbildning/student/stod-och-service/sarskilt-stod/
+[pol-disabilites]:
+https://www.teknat.uu.se/utbildning/student/stod-och-service/sarskilt-stod/
 
 [got-councelling]: https://www.campusgotland.uu.se/student/vagledning/
 [got-disabilites]: https://www.campusgotland.uu.se/student/funka/
