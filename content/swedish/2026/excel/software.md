@@ -4,7 +4,7 @@ weight: 10
 ---
 
 Kalkylark används för att sammanställa och manipulera data i form av beräkningar
- och statistik. 
+och statistik. 
  
 ## Kalkylprogram 
  
@@ -30,9 +30,15 @@ Kalkylark används för att sammanställa och manipulera data i form av beräkni
        + **Har ej stöd för trendlinjer**
    - Nedladdad version
        + Fungerar endast för Microsoft Windows och MacOS (OS X)
-       + Sedan den 25 januari 2017 får alla studenter vid Uppsala
-       universitet ett [Microsoft 365 Education-konto][365-student] med tillgång till ett
-         Microsoft Office-paket, kalender och e-post.
+       + Som student vid Uppsala Universitet får du ett [Microsoft 365
+         Education-konto][365-student] med tillgång till ett Microsoft
+         Office-paket, kalender och e-post.
++ [Apple Numbers](https://www.apple.com/in/numbers/)
+   + Apples egna kalkylprogram som ingår i [iWork-sviten][iWork] för Mac,
+     iPhone, iPad och via webben på [iCloud][icloud-numbers].
+
+[iWork]: https://www.apple.com/lae/iwork/index.html
+[icloud-numbers]: https://www.icloud.com/sv-se/numbers
 
 [365-student]: ../student-services/microsoft/
 
@@ -43,6 +49,7 @@ det verktyg som kommer användas i denna modul.
 
 ## Salar med Microsoft Excel på campus Ångströmlaboratoriet
 
-På campus Ångströmlaboratoriet finns Excel installerat på datorer i alla [datorsalar][salar]. 
+På campus Ångströmlaboratoriet finns Excel installerat på datorer i alla
+[datorsalar][salar]. 
 
 [salar]: ../computer-rooms
