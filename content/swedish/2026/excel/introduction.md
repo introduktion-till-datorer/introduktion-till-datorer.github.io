@@ -182,7 +182,8 @@ Testa att ändra några värden i omfånget `A1:B11` och notera hur summan i rut
 Ett alternativ till manuell inmatning av funktioner är grafisk inmatning. Notera
 att denna metod endast är tillgänglig i någorlunda moderna versioner av Excel.
 
-1. Klicka först på en cell. 2. Klicka därefter på *Insert* -> *Function*
+1. Klicka först på en cell. 
+2. Klicka därefter på *Insert* -> *Function*
 3. Välj funktionen du vill använda
 4. Markera därefter omfånget som funktionen ska appliceras på
 5. Avsluta med att trycka på *Enter*.
@@ -235,31 +236,50 @@ ställa in exempelvis titel och hur etiketter representeras.
 
 ### Trendlinjer och regressionsanalys
 
-*Trendlinjer går, i dagsläget, inte att skriva in direkt i online-versionen av
-Excel. För detta krävs den nedladdade versionen.*
+Målet med [regressionsanalys][reg-analys] är att, utifrån observerade data,
+skapa en funktion som beskriver den. Ett sätt att illustrera detta i Excel är
+med hjälp av **trendlinjer**.
 
-Målet med regressionsanalys är att, utifrån observerade data, skapa en funktion
-som beskriver den. Ett sätt att illustrera detta med är att använda
-*trendlinjer*.
+- En trendlinje visar tendenser på hur dina datavärden förändras (till exempel
+  hur ett mätvärde förändras över tid). 
+- [\\(R^2\\)-värdet][R2] (determinationskoefficienten) mäter hur väl trendlinjen
+  passar till de faktiska datapunkterna och anges som ett tal mellan noll och
+  ett.
+  - Noll (0.0): Ingen linjär anpassning alls. Trendlinjen förklarar ingenting av
+    variationen i datapunkterna. 
+  - Högt värde (t.ex. över 0,8): Starkt samband och hög tillförlitlighet.
+  - Lågt värde (t.ex. under 0,3): Svagt samband; spridningen på datapunkterna är
+    stor i förhållande till linjen
+  
+[reg-analys]: https://sv.wikipedia.org/wiki/Regressionsanalys
 
-När du klickat på en lämplig graf dyker verktygen *chart tools* upp i övre
-raden. Klicka på *layout* för att nå alternativet *trendline*.
+{{% notice style="warning" title="Funkar inte i online-versionen av Excel" %}}
+
+Trendlinjer går, i dagsläget, inte att skriva in direkt i online-versionen av
+Excel. För detta krävs den nedladdade versionen.
+
+{{% /notice %}}
+
+När du klickat på en lämplig graf dyker verktygen **chart tools** upp i övre
+raden. Klicka på **layout* för att nå alternativet **trendline**.
 
 {{< figure 
     src="/images/2024/excel/trendline-1.PNG"
     title="Menyalternativet trendlinje syns längst upp till höger."
 >}}
 
-Valet *more options* låter dig ställa in avancerade alternativ för trendlinjer.
+Valet **more options** låter dig ställa in avancerade alternativ för trendlinjer.
 Det låter dig exempelvis ställa in hur trendlinjen ska beräknas, visa
-\\(R^2\\)-värdet, byta format, etc. Du kan även nå detta fönster genom att
-högerklicka på redan befintliga trendlinjer och välja *format trendline*.
+[\\(R^2\\)-värdet][R2], byta format, etc. Du kan även nå detta fönster genom att
+högerklicka på redan befintliga trendlinjer och välja **format trendline**.
+
+[R2]: https://en.wikipedia.org/wiki/Coefficient_of_determination
 
 {{< figure 
     src="/images/2024/excel/trendline-2.PNG"
     title="Inställningar för trendlinjer." >}}
 
-Tänk på att det viktigaste med grafer är att göra de så tydliga som möjligt!
+Tänk på att det viktigaste med grafer är att göra de så tydliga som möjligt.
 Genom att använda färger och andra inställningar kan du förtydliga linjerna och
 deras förhållande till datan de representerar.
 
@@ -274,5 +294,5 @@ Trendlinjer går även att skapa med andra typer av grafer.
     title="Exempel på formatering." 
 >}}
 
-Ett \\(R^2\\)-värde som är nära 1 visar dess trovärdighet. Eftersom
+I exemplet ovan är \\(R^2\\)-värdet mycket lågt (0.0533). Eftersom
 exempelfiguren använder slumpmässiga tal är det låga värdet rimligt.
