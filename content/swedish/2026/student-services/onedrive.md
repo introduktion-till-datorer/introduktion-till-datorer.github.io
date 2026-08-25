@@ -21,13 +21,24 @@ När du klickar på ikonen för utforskaren öppnas ett nytt fönster.
 
 ![](/images/2024/studenttjanster/windows/file-explorer-1.png)
 
+## Leta efter OneDrive
+
+Leta efter **OneDrive** i utforskarens vänstra fält. Ikonen för OneDrive kan se
+lite olika ut och texten som följer efter ikonen kan också variera något. Det
+kan till exempel stå OneDrive, OneDrive - Uppsala Universitet eller ditt förnam -
+Uppsala Universitet. 
+
+![](/images/2026/OneDrive/OneDrive-icons.png)
+
+
 ## Aktivera OneDrive
 
 Om du hittar **OneDrive** i utforskaren klickar du på **OneDrive**. 
 
 ![](/images/2024/studenttjanster/windows/explorer-onedrive.png)
 
-Om du inte hittar **OneDrive** i utforskaren, sök efter **One Drive** i **taskbar** (1) och klicka på **OneDrive App** (2).
+Om du inte hittar **OneDrive** i utforskaren, sök efter **One Drive** i
+**taskbar** (1) och klicka på **OneDrive App** (2).
 
 ![](/images/2025/windows/one-drive-from-taskbar.png?width=555px)
 
@@ -82,8 +93,9 @@ exempel din privata dator med Windows.
 
 ## OneDrive på din plattform
 
-Om du använder Windows 10 eller Windows 11 finns OneDrive redan installerat. Förutom att OneDrive funkar i Windows kan du [ladda hem][download] OneDrive till macOS, iOS
-och Android.  
+Om du använder Windows 10 eller Windows 11 finns OneDrive redan installerat.
+Förutom att OneDrive funkar i Windows kan du [ladda hem][download] OneDrive till
+macOS, iOS och Android. 
 
 [download]: https://www.microsoft.com/sv-se/microsoft-365/onedrive/download
 
@@ -100,7 +112,3 @@ Förutom att aktivera OneDrive i utforskaren på en dator med Windows kan du kom
 Lär dig mer om OneDrive [här][more]. 
 
 [more]: https://support.microsoft.com/en-us/onedrive
-
-
-
-
