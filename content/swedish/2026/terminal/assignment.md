@@ -95,14 +95,18 @@ Katalogstrukturen ska nu se ut så här:
 ```
 ## Ladda ner fil
 
-Ladda ner filen [jobbig_textfil.txt][jobbig] och lägg den i mappen `deluppgift_2`. Du kan ladda hem filen genom att högerklicka på länken [jobbig_textfil.txt][jobbig] och ladda ner filen. 
+Ladda ner filen [jobbig_textfil.txt][jobbig] och lägg den i mappen
+`deluppgift_2`. Du kan ladda hem filen genom att högerklicka på länken
+[jobbig_textfil.txt][jobbig] och ladda ner filen. 
 
-Ett alternativt sätt att ladda hem filen är att använda kommandot `curl` direkt från terminalen. Om du utför kommandot nedan i terminalen kommer filen `jobbig_textfil.txt` att laddas ner till aktuell katalog. 
+Ett alternativt sätt att ladda hem filen är att använda kommandot `curl` direkt
+från terminalen. Om du utför kommandot nedan i terminalen kommer filen
+`jobbig_textfil.txt` att laddas ner till aktuell katalog. 
 
-[jobbig]: /2025/terminal/assignment/jobbig_textfil.txt
+[jobbig]: /2026/terminal/assignment/jobbig_textfil.txt
 
 ``` text
-curl -O  https://introduktion-till-datorer.github.io/2025/terminal/assignment/jobbig_textfil.txt
+curl -O  https://introduktion-till-datorer.github.io/2026/terminal/assignment/jobbig_textfil.txt
 ```
 
 

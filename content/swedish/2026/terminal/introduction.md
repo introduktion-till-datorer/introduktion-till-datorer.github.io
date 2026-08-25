@@ -3,7 +3,7 @@ title: Introduktion
 weight: 10
 ---
 
-+ Terminalen är ett textbaserat gränssnitt som till skillnad från ett grafiskt
+Terminalen är ett textbaserat gränssnitt som till skillnad från ett grafiskt
 gränssnitt styrs via kommandon du skriver in.
 
 + Terminalen är, jämfört med grafiska gränssnitt, enkel. Terminalen kräver mycket
@@ -13,11 +13,8 @@ skapa gränssnitt för.
 + Terminalen gör det möjligt att använda och kontrollera 
 allt från chip i storleken av tumnaglar till superdatorer.
 
-När hårddiskar, grafikenheter och hela operativsystem slutar fungera är det
-fortfarande möjligt att använda datorn med terminalgränssnitt. Trots att
-terminalen kan verka svår att komma igång med ger den dig därmed många
-möjligheter som grafiska gränssnitt helt enkelt inte kan erbjuda.
-
+ Trots att terminalen kan verka svår att komma igång med kan det ofta vara mer
+ praktiskt att arbeta i terminalen jämfört med det grafiska gränssnittet. 
 
 ## Textbaserat gränssnitt
 
@@ -42,39 +39,65 @@ Uppsala universitets Ubuntu-version), Mac OS och numera även Windows 10.
 
 I korthet är fördelen med terminalen att den helt enkelt **fungerar**. 
 
-Om en dator över huvudtaget startar är sannolikheten stor att den går att styra via någon typ av terminal.
-Grafiska gränssnitt kräver däremot mycket mer av datorn för att fungera. De bygger nämligen på komplexa system som interagerar mellan varandra på bekostnad av stabilitet, säkerhet, resurser och portabilitet (dvs körbarhet på olika datorer).
+Om en dator över huvudtaget startar är sannolikheten stor att den går att styra
+via någon typ av terminal.  Grafiska gränssnitt kräver däremot mycket mer av
+datorn för att fungera. De bygger nämligen på komplexa system som interagerar
+mellan varandra på bekostnad av stabilitet, säkerhet, resurser och portabilitet
+(dvs körbarhet på olika datorer).
 
-Vidare är det mycket lättare att skriva program som interagerar via terminalen. I de flesta språk (inklusive de som är gjorda för rent vetenskapliga syften) kan du skriva ut ett värde till terminalen med endast en rad kod, vilket garanterat kommer att fungera på alla datorer programmet fungerar på.
+Vidare är det mycket lättare att skriva program som interagerar via terminalen.
+I de flesta språk (inklusive de som är gjorda för rent vetenskapliga syften) kan
+du skriva ut ett värde till terminalen med endast en rad kod, vilket garanterat
+kommer att fungera på alla datorer programmet fungerar på.
 
-Med grundläggande kunskaper om terminalen kommer du ha tillgång till många fler verktyg, samt spara massor av tid och huvudvärk när du vill skapa egna verktyg och program. Större vana med att arbeta i terminalen låter dig dessutom använda datorer mycket mer effektivt.
-
-
+Med grundläggande kunskaper om terminalen kommer du ha tillgång till många fler
+verktyg, samt spara massor av tid och huvudvärk när du vill skapa egna verktyg
+och program. Större vana med att arbeta i terminalen låter dig dessutom använda
+datorer mycket mer effektivt.
 
 ## Grundläggande användning
 
-Även vana datoranvändare kan känna sig obekväma med textbaserade gränssnitt. Målet i detta steg är att visa att grunderna är mycket enkla att komma igång med.
+Även vana datoranvändare kan känna sig obekväma med textbaserade gränssnitt.
+Målet i detta steg är att visa att grunderna är mycket enkla att komma igång
+med.
 
 Med hjälp av terminalen kan du enkelt
 
 + Kopiera filer mellan din lokala dator och andra datorer uppkopplade till ett nätverk.
 + Ansluta din dator med Uppsala universitets Linuxsystem.
-+ Redigera textfiler på andra datorer uppkopplade till ett nätverk, till exempel på Uppsala universitets Linuxsystem. 
++ Redigera textfiler på andra datorer uppkopplade till ett nätverk, till exempel
+på Uppsala universitets Linuxsystem. 
 
 
-### Öppna en terminalemulator
+## Öppna en terminal (Linux - Uppsala universitet) 
 
-På Ubuntu-versionen som används i universitets datorer kan du trycka `<Ctrl>+<Alt>+t` för att öppna en terminalemulator. Den kan även startas som ett vanligt program under *Applications -> Accessories -> Terminal*.
+På Ubuntu-versionen som används på Uppsala universitets Linuxsystem kan du trycka
+`<Ctrl>+<Alt>+t` för att öppna en terminal. Terminalen kan även startas som ett
+vanligt program under *Applications -> System Tools -> Terminal*.
 
-+ På Mac OS öppnar du den enklast genom att söka efter `terminal` i Spotlight.
-+ För Windows finns det i dagsläget ingen inbyggd UNIX-terminal:
-    - [PuTTY](http://www.putty.org/) låter dig ansluta till en UNIX-server via [SSH](#fjärråtkomst-via-ssh) -- du kan då helt enkelt logga in på en av universitets Linux-servrar med samma uppgifter som Studentportalen.
-    - [Cygwin](https://www.cygwin.com/) låter dig installera ett stort antal program som ingår i de flesta Linux-installationer.
-    - Microsoft har tillsammans med Canonical (som ligger bakom Ubuntu) introducerat *bash* för Windows 10. En installationsguide finns [här](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide).
-    - Du kan även installera ett helt Linux-system med minimal ansträngning på en Windows-dator. Mer om detta står i Linux-modulen.
+![](/images/2026/terminal/thinlinc-open-terminal.png)
+
+## Öppna en terminal (Mac OS)
+
+På Mac OS öppnar du enklast en terminal genom att söka efter `terminal` i Spotlight (Cmd - Space).
+
+## Öppna en terminal (Windows)
+
+För Windows finns det i dagsläget ingen inbyggd UNIX-terminal:
+
+- [PuTTY](http://www.putty.org/) låter dig ansluta till en UNIX-server via
+    [SSH](#fjärråtkomst-via-ssh) -- du kan då helt enkelt logga in på en av
+    universitets Linux-servrar med samma uppgifter som Studentportalen.
+- [Cygwin](https://www.cygwin.com/) låter dig installera ett stort antal program
+som ingår i de flesta Linux-installationer.  - Microsoft har tillsammans med
+Canonical (som ligger bakom Ubuntu) introducerat *bash* för Windows 10. En
+installationsguide finns
+[här](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide).
+- Du kan även installera ett helt Linux-system med minimal ansträngning på en
+Windows-dator. Mer om detta står i Linux-modulen.
 
 
-### Användning av terminalen
+## Användning av terminalen
 
 Terminalen öppnas med hem-mappen aktiv.
 
