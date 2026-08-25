@@ -3,7 +3,7 @@ baseURL = 'https://introduktion-till-datorer.github.io/'
 # https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/deployment/index.html#public-web-server-from-subdirectory
 # relativeURLs = false
 
-title = 'Introduktion till datorer 2024'
+title = 'Introduktion till datorer'
 
 defaultContentLanguage = "sv"
 defaultContentLanguageInSubdir = false
@@ -17,7 +17,7 @@ disableLanguages = []
 
 # publishDir = 'public/2024/'
 
-# Do not set theme here when using modules. 
+# Do not set theme here when using modules.
 
 # theme = 'hugo-theme-relearn'
 
@@ -41,7 +41,7 @@ disableLanguages = []
 
     # Modules on the bottom will get loaded first, so keep anything you don’t want
     # overridden higher up in the module chain. All conflicting files during module
-    # import will use the last file loaded. 
+    # import will use the last file loaded.
 
     # [module]
     #    [[module.mounts]]
@@ -58,10 +58,12 @@ disableLanguages = []
     [languages.sv]
         contentDir = 'content/swedish'
         languageName = 'Svenska'
+        title = "Introduktion till datorer"
         weight = 100
     [languages.en]
         contentDir = 'content/english'
         languageName = 'English'
+        title = "Introduction to IT systems"
         weight = 20
 
 
@@ -83,7 +85,7 @@ disableLanguages = []
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
-            #  Whether to render raw HTML mixed within Markdown. This is unsafe unless the content 
+            #  Whether to render raw HTML mixed within Markdown. This is unsafe unless the content
             # is under your control. Default is false.
             unsafe = true
 
