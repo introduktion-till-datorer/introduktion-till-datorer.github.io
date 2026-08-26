@@ -260,15 +260,19 @@ Excel. För detta krävs den nedladdade versionen.
 
 {{% /notice %}}
 
-När du klickat på en lämplig graf dyker verktygen **chart tools** upp i övre
-raden. Klicka på **layout* för att nå alternativet **trendline**.
+För att lägga till en trendlinje klickar du först på grafen. Nu visas flikarna
+**Design**, **Layout** och **Format** längst upp till höger (1).
 
-{{< figure 
-    src="/images/2024/excel/trendline-1.PNG"
-    title="Menyalternativet trendlinje syns längst upp till höger."
->}}
+{{< figure src="/images/2024/excel/eng-chart-settings.png" title="Alternativ för trendlinjer" >}}
 
-Valet **more options** låter dig ställa in avancerade alternativ för trendlinjer.
+Från fliken **Layout** (2) väljer du **Trendline** (3) för att komma åt alternativen
+för att lägga till en trendlinje i diagrammet.
+
+Du kan också klicka på en redan tillagd trendlinje för att komma åt
+trendlinjeinställningarna.
+
+
+Valet **Trendline options** låter dig ställa in avancerade alternativ för trendlinjer.
 Det låter dig exempelvis ställa in hur trendlinjen ska beräknas, visa
 [\\(R^2\\)-värdet][R2], byta format, etc. Du kan även nå detta fönster genom att
 högerklicka på redan befintliga trendlinjer och välja **format trendline**.

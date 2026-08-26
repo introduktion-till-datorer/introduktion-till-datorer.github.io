@@ -80,47 +80,77 @@ corner to create a series of numbers based on the selected numbers.
 
 ## Formulas
 
-In Excel, formulas are a way to perform calculations. For example, you can use
-the box just above the grid, where it says \\(f_x\\) on the left, to enter a
-formula. 
+In Excel, **formulas** are a way to perform calculations. You can enter a
+formula into a cell in two different ways.
 
-You can test this by selecting an empty cell and typing `3 + 5` in the \\(f_x\\)
-box.
+Alternative 1: 
 
-Formulas can use functions, which behave in much the same way as
-mathematical functions: they have arguments (input) and calculates a result
-(output). Excel has a large number of built-in functions.
+1. Click on the cell where you want to enter a formula.
+2. Click on  \\(f_x\\) which you will find just above the grid, on the left.
+3. Type your formula.
+
+Alternative 2: 
+
+1. Click the cell where you want to enter a formula.
+2. Type `=` followed by the formula you want to enter.
+
+Click on an empty cell and try entering the formula `3 + 5` in the cell. After
+pressing enter, the result 8 appears in the cell.
+
+{{< figure 
+    src="/images/2026/excel/3-plus-five.gif" 
+    title="Calculating 3 + 5 using a formula." 
+>}}
+
+## Functions
+
+In addition to standard mathematical calculations (`+`, `-`, `*`, `/`), formulas
+can use functions. A function in Excel behaves in the same way as a mathematical
+function. A function takes zero or more **arguments** (input) and calculates a
+**result** (output). Excel has a large number of built-in functions.
 
 By using formulas and functions, you can perform complex calculations in your
 spreadsheets.
 
 ### Entering formulas as text
 
-To demonstrate how to manually entering formulas, we use the `SUM` function. As the name implies, this
-function calculates the sum of a number of values.
+To demonstrate how to manually entering formulas, we use the `SUM` function. As
+the name implies, this function calculates the sum of a number of values.
 
 Before proceeding, make sure you have some values in the range `A1:B11`.
+
+{{< figure 
+    src="/images/2026/excel/1-to-11.png" 
+    width="400"
+    title="Exempel of values." 
+>}}
 
 In order for Excel to understand that you want to enter a formula in a cell
 you must start the formula with `=` (equal sign), followed by
 formula. Arguments to functions must be inside parentheses.
 
-In the following example, we choose to place a formula in cell  `A12`. Click on
-the cell `A12` and enter the following inside the cell, then press `Enter`.
+1. Click on the cell `A12`.
+2. Enter the forumla:
+    - If you are using Excel in English, type `=SUM(A1:B11)`.
+    - If you are using Excel in Swedish, type `=SUMMA(A1:B11)`.
+3. Press **Enter**.
 
-``` text
-=SUM(A1:B11)
-```
+{{< figure 
+    src="/images/2024/excel/sum.png"
+    title="Calculate the sum of all values ​​in the range A1:B11." 
+>}}
 
-In this example, we have entered a formula. The formula uses the `SUM` function.
-The argument (input) to the `SUM` function is the range `A1:B11`. 
+In this example, the function name is **SUM** (English), or **SUMMA** (Swedish), while
+the argument is the range **A1:B11**. After you press **Enter**, the sum of all numbers in the
+range **A1:B11** is displayed in cell **A12**. In this example, the sum is
+**77**.
 
-{{< figure src="/images/2024/excel/sum.png" title="Beräkna summa" >}}
+Try changing some values ​​in the range A1:B11 and notice how the sum in cell
+A12 automatically updates.
 
-The result (output) of the formula automatically shows in the cell `A12`. The
-result is the sum of the numbers in the range `A1:B11`.
-Change a few numbers in the range `A1:B11` and see how the sum in cell `A12`
-automatically is updated. 
+{{< figure 
+    src="/images/2026/excel/a1b11-sum-example.gif"
+>}}
 
 
 ### Entering formulas with the mouse.
@@ -179,10 +209,25 @@ Once you created a chart the chart the be edited.
 - To edit the chart type and other parameters, double click anywhere on the chart. Now a menu with chart settings will appear. 
 
 
-### trendlines and regression analysis
+### Trendlines and regression analysis
 
-The goal of regression analysis is to, based on observed data, create a function
-that describes it. One way to illustrate this is to use trendlines.
+The goal of [regression analysis][reg-analysis] is to, based on observed data,
+create a function that describes it. One way to illustrate this is to use
+trendlines.
+
+[reg-analysis]: https://en.wikipedia.org/wiki/Regression_analysis
+[R2]: https://en.wikipedia.org/wiki/Coefficient_of_determination
+
+- A trendline shows trends in how your data values ​​change (for example, how a
+metric changes over time).  
+- The [\\(R^2\\) value][R2] (coefficient of
+determination) is a measure of the goodness of fit of a model. In regression, the
+\\(R^2\\) coefficient of determination is a statistical measure of how well the
+regression predictions approximate the real data points.
+    - Zero (0.0): No linear fit at all. The trend line explains none of the variation in the data points.
+    - High value (e.g. above 0.8): Strong relationship and high reliability.
+    - One (1.0): The regression predictions perfectly fit the data.
+    - Low value (e.g. below 0.3): Weak relationship; the spread of the data points is large relative to the line
 
 {{< notice style="warning" title="Microsoft Live" >}}
 
@@ -212,12 +257,6 @@ In the following example, three different data series are represented with diffe
 In the following example, a trendline has been added to a bar chart. 
 
 {{< figure src="/images/2024/excel/chart-alt.PNG" title="Trendline added to a bar chart" >}}
-
-
-\\(R^2\\) is a measure of the goodness of fit of a model. In regression, the
-\\(R^2\\) coefficient of determination is a statistical measure of how well the
-regression predictions approximate the real data points. An \\(R^2\\) of 1
-indicates that the regression predictions perfectly fit the data.
 
 In the above example, random values have been used in the spreadsheet. The
 \\(R^2\\) value for the Johanna trendline is `0.0533`, i.e, the trendline is not
