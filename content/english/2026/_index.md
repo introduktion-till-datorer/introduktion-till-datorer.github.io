@@ -30,7 +30,6 @@ Autumn {{< param year >}}, Introduction to IT systems is part of the following c
 
 | Abbreviation    | Campus                                     | Programme                                                                    | Course code | Course name                                          |
 |:---------------:|----------------------------------------------|------------------------------------------------------------------------------|:-----------:|------------------------------------------------------|
-| HUI             | [Gotland][got]                               | [Bachelor's Programme in Sustainable Development in Industrial Engineering][HUI]                  | 1TG298      | Introduction to Industrial Development             |
 | LKF (campus)    | [Gotland][got]                               | [Bachelor's Programme in Leadership - Quality Management - Improvement][KandLedarskap]        | 1TG284      | Introduction to Leadership - Quality Management - Improvement |
 
 

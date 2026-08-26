@@ -120,7 +120,7 @@ och naturvetenskap][teknat] vid [Uppsala universitet][uu].
     <br/>
     <br/>
     <p>The following programmes and courses are given in English and uses the 
-    Enlish version <a href="eng">Introduction to IT systems</a> of this site.</p>
+    Enlish version <a href="/en/2026">Introduction to IT systems</a> of this site.</p>
     </p>
     <br/>
     <br/>
@@ -133,7 +133,7 @@ och naturvetenskap][teknat] vid [Uppsala universitet][uu].
         <th>Course code</th>
         <th>Introduction course</th>
     </tr>
-    <tr>
+    <!--tr>
         <td>HUI</td>
         <td><a target="_blank" class="highlight" href="https://www.campusgotland.uu.se/?languageId=">Gotland</a></td>
         <td><a target="_blank" class="highlight"
@@ -142,7 +142,7 @@ och naturvetenskap][teknat] vid [Uppsala universitet][uu].
      </a></td>
         <td>1TG298</td>
         <td>Introduction to Industrial Development</td>
-    </tr>
+    </tr-->
      <tr>
         <td>LKF (campus)</td>
         <td><a target="_blank" class="highlight" href="https://www.campusgotland.uu.se/?languageId=1">Gotland</a></td>
