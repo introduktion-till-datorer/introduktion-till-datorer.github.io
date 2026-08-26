@@ -21,6 +21,15 @@ When you click on the file explorer icon, a new window opens.
 
 ![](/images/2024/studenttjanster/windows/file-explorer-1.png)
 
+## Look for OneDrive
+
+Look for **OneDrive** in the left pane of Explorer. The OneDrive icon may look
+slightly different and the text following the icon may also vary slightly. For
+example, it may say OneDrive, OneDrive - Uppsala Universitet, or your first name - Uppsala Universitet.
+
+![](/images/en/2026/OneDrive/OneDrive-icons.png)
+
+
 ## Activate OneDrive
 
 If you find **OneDrive** in the File explorer, click on **OneDrive**. 
