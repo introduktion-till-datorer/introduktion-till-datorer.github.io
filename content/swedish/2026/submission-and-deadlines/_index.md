@@ -21,27 +21,6 @@ lösning innan deadline för inlämning.
 Alla program förutom **ES** lämnar in på respektive
 introduktionskurs sida i Studium.
 
-- [Kurssida för E/EI][eei-studium]
-- [Kurssida för F][f-studium]
-- [Kurssida för I][i-studium]
-- [Kurssida för IT/KandDv][it-dv-studium]
-- [Kurssida för W][w-submsission]
-- [Kurssida för LKF (distans) + Paket LKF A (distans)][lkf-distans]
-
-[eei-studium]: https://uppsala.instructure.com/courses/112183
-
-[f-studium]: https://uppsala.instructure.com/courses/112153
-
-[i-studium]: https://uppsala.instructure.com/courses/112418
-
-[it-dv-studium]: https://uppsala.instructure.com/courses/111996
-
-[w-submsission]: https://uppsala.instructure.com/courses/104775
-
-[lkf-distans]: https://uppsala.instructure.com/courses/107223
-
-[hui]: https://uppsala.instructure.com/courses/98431
-
 När du är inne på din kurs klickar du sedan på **Moduler** i menyn. 
 
 ![](/images/2024/studenttjanster/studium/kurs-meny-moduler.png)
@@ -68,7 +47,7 @@ för att lämna in din uppgift.
 
 ##  Inlämning av uppgifter i Canvas (ES)
 
-På [kursens sida i Canvas][canvas] finns
+På kursens sida i Canvas finns
 ett avsnitt som heter Introduktion till datorer, UU. 
 
 [canvas]: https://slu-se.instructure.com/courses/12163
